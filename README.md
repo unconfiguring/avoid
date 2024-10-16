@@ -7,6 +7,11 @@ featureful discord bot ad link bypasser
 - purge command
 - domain command
 
+# commmands
+- /bypass - bypasses ad links
+- /domain - shows supported domains ad link domains the bot can by bypass
+- /purge - purges messages
+
 # requiremnts 
 - python 3.x
 
