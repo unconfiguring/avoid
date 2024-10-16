@@ -1,5 +1,5 @@
 # avoid
-featureful discord bot ad link bypasser. if you dont want to host your own bot, use mine [click this](https://discord.com/oauth2/authorize?client_id=1234685973246509129&permissions=2147510272&integration_type=0&scope=bot) or join [this server](https://discord.gg/QV78KQD5ZV)
+featureful discord bot ad link bypasser. if you dont want to host your own bot, [use mine](https://discord.com/oauth2/authorize?client_id=1234685973246509129&permissions=2147510272&integration_type=0&scope=bot) or join [this server](https://discord.gg/QV78KQD5ZV)
 
 # features 
 - ad link bypassing
