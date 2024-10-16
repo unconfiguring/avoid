@@ -3,6 +3,7 @@ featureful discord bot ad link bypasser, if you dont want to host your own bot [
 
 # features 
 - ad link bypassing
+- open source
 - supports 18 diffrent ad link websites
 - purge command
 - domain command
