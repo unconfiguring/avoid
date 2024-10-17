@@ -10,7 +10,7 @@ featureful discord bot ad link bypasser. if you dont want to host your own bot, 
 
 # commmands
 - /bypass - bypasses ad links
-- /domain - shows supported domains ad link domains the bot can by bypass
+- /domain - shows supported domains ad link domains the bot can bypass
 - /purge - purges messages
 
 # requiremnts 
